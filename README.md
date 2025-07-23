@@ -2,7 +2,7 @@
 
 
 
-Um projeto minimalista de lista de tarefas (To-Do List), criado com [mencione as tecnologias, ex: HTML, CSS e JavaScript puro], com o objetivo de solidificar conceitos de [mencione os conceitos, ex: manipulação do DOM, eventos, armazenamento local].
+Um projeto minimalista de lista de tarefas (To-Do List), criado com JAVA.
 
 ## 🚀 Tecnologias Utilizadas
 
